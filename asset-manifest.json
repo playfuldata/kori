@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/kori/static/css/main.fbaba8db.chunk.css",
-    "main.js": "/kori/static/js/main.afddfffb.chunk.js",
-    "main.js.map": "/kori/static/js/main.afddfffb.chunk.js.map",
+    "main.js": "/kori/static/js/main.7997a8a3.chunk.js",
+    "main.js.map": "/kori/static/js/main.7997a8a3.chunk.js.map",
     "runtime-main.js": "/kori/static/js/runtime-main.843c6df0.js",
     "runtime-main.js.map": "/kori/static/js/runtime-main.843c6df0.js.map",
     "static/css/2.4c0ab1a8.chunk.css": "/kori/static/css/2.4c0ab1a8.chunk.css",
-    "static/js/2.e7d3184b.chunk.js": "/kori/static/js/2.e7d3184b.chunk.js",
-    "static/js/2.e7d3184b.chunk.js.map": "/kori/static/js/2.e7d3184b.chunk.js.map",
+    "static/js/2.8a4785f3.chunk.js": "/kori/static/js/2.8a4785f3.chunk.js",
+    "static/js/2.8a4785f3.chunk.js.map": "/kori/static/js/2.8a4785f3.chunk.js.map",
     "index.html": "/kori/index.html",
-    "precache-manifest.3b9becbc1883268c5ddd3eaee529acbd.js": "/kori/precache-manifest.3b9becbc1883268c5ddd3eaee529acbd.js",
+    "precache-manifest.be35bc5b80731539d6ae403898e5be47.js": "/kori/precache-manifest.be35bc5b80731539d6ae403898e5be47.js",
     "service-worker.js": "/kori/service-worker.js",
     "static/css/2.4c0ab1a8.chunk.css.map": "/kori/static/css/2.4c0ab1a8.chunk.css.map",
     "static/css/main.fbaba8db.chunk.css.map": "/kori/static/css/main.fbaba8db.chunk.css.map",
-    "static/js/2.e7d3184b.chunk.js.LICENSE": "/kori/static/js/2.e7d3184b.chunk.js.LICENSE"
+    "static/js/2.8a4785f3.chunk.js.LICENSE": "/kori/static/js/2.8a4785f3.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.843c6df0.js",
     "static/css/2.4c0ab1a8.chunk.css",
-    "static/js/2.e7d3184b.chunk.js",
+    "static/js/2.8a4785f3.chunk.js",
     "static/css/main.fbaba8db.chunk.css",
-    "static/js/main.afddfffb.chunk.js"
+    "static/js/main.7997a8a3.chunk.js"
   ]
 }
