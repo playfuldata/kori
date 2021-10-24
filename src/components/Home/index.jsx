@@ -52,10 +52,17 @@ function Home() {
             Get Started
           </Fab>
         </Grid>
-        <Grid item xs={6} style={{ overflow: "hidden" }}>
-          <video width="110%" height="auto" style={{ marginLeft: "-5%" }}>
-            <source src="teaser.mp4" type="video/mp4" />
-          </video>
+        <Grid item xs={6}>
+          <Box p={2}>
+            <video
+              width="100%"
+              height="auto"
+              autoplay
+              controls
+            >
+              <source src="teaser.mp4" type="video/mp4" />
+            </video>
+          </Box>
         </Grid>
       </Grid>
       <Box mt={3}>
@@ -91,13 +98,13 @@ function Home() {
         >
           Presentation
         </Button>{" "}
-        <Button
+        {/* <Button
           href="https://drive.google.com/uc?export=view&id=10iXGFLCJF8W_JCMiT6vHwVw8qpLyeHBT"
           color="primary"
           startIcon={<VideocamOutlinedIcon />}
         >
           Video
-        </Button>{" "}
+        </Button>{" "} */}
         <Button
           href="https://playfuldata.github.io/kori/"
           color="primary"
